@@ -60,7 +60,7 @@ make install
 
 This will install the latest development environment of cell2sentence, along with other pacakge dependendies. You can also install cell2sentence itself using `pip`:
 ```bash
-pip install cell2sentence
+pip install cell2sentence==1.1.0
 ```
 
 The C2S package will allow usage of the core functionalities of C2S, including inference using existing C2S models and finetuning your own C2S models on your own datasets.
